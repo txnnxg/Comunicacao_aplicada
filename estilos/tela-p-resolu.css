@@ -1,0 +1,58 @@
+
+@media screen and (min-width: 300px) {
+    img#des {
+        width: 100%;
+    }
+    h1#t1 {
+        font-size: 2em;
+    }
+}
+@media screen and (max-width: 500px) {
+    section {
+        font-size: 1em;
+    }
+    img.fot {
+        width: 70vw;
+    }
+}
+@media screen and (min-width: 500px) {
+    img#foto1 {
+        height: 100px;
+        position: relative;
+        right: 68px;
+    }
+    img#des {
+        position: relative;
+        left: 40px;
+    }
+}
+@media screen and (max-width: 1060px){
+    section#s1:after {
+        display: none;
+    }
+        footer {
+        border-radius: 0px;
+    }
+}
+@media screen and (min-width: 1000px) {
+    img#foto1 {
+        height: 100px;
+        position: relative;
+        right: 300px;
+    }
+}
+@media screen and (min-width: 1420px) {
+    img#foto1 {
+        height: 100px;
+        position: relative;
+        right: 570px;
+    }
+}
+@media screen and (min-width: 1900px) {
+    img#foto1 {
+        height: 100px;
+        position: relative;
+        right: 873px;
+    }
+    }
+
