@@ -8,9 +8,6 @@
     section {
         font-size: 1em;
     }
-    img.fot {
-        width: 70vw;
-    }
 }
 @media screen and (min-width: 500px) {
     img#foto1 {
