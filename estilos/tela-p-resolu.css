@@ -27,6 +27,10 @@
         footer {
         border-radius: 0px;
     }
+    div#fundo {
+        background-size: 0%;
+        color: rgb(255, 255, 255);
+    }
 }
 @media screen and (min-width: 1000px) {
     img#foto1 {
