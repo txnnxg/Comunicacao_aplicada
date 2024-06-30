@@ -18,7 +18,7 @@ img#fundadores{
     background-color: black;
     border-style: solid;
     border-color: rgb(8, 8, 8);
-    border-radius: 7px;
+    border-radius: 0px 7px 0px 0px;
     padding: 5px;
     margin: auto;
     max-width: 100%;
@@ -87,11 +87,15 @@ h2 {
     font-family: "Montserrat", sans-serif;
     margin: 0px;
     font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.534);
+    max-width: 200px;
+    border-radius: 5px 5px 0px 0px;
+    
 }
 p#p2 {
     background-color: rgb(0, 0, 0);
     max-width: 815px;
-    border-radius: 5px;
+    border-radius: 0px 0px 5px 5px;
 }
 footer {
     height: 58px;
