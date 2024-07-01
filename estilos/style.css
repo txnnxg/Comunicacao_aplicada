@@ -97,6 +97,9 @@ p#p2 {
     max-width: 815px;
     border-radius: 0px 0px 5px 5px;
 }
+.efeito-txt-topo {
+    visibility: hidden;
+}
 footer {
     height: 58px;
     background-image: linear-gradient(to bottom, #8A0538, #b5275e );
