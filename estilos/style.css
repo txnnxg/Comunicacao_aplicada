@@ -134,6 +134,12 @@ div#imagem {
     margin: 20px;
 
 }
+img#noticia {
+    padding: 5px;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
 footer {
     height: 58px;
     background-image: linear-gradient(to bottom, #8A0538, #b5275e );
