@@ -5,7 +5,9 @@
 body {
     background-color: rgb(255, 255, 255);
     margin: 0px;
-    overflow-x: hidden; 
+    max-width: 100%;
+    overflow-x: hidden;
+    
 }
 header {
     background-image: linear-gradient(to bottom, #8A0538, #b5275e);
