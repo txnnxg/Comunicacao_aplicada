@@ -3,6 +3,9 @@
     picture#pic {
         display: none;
     }
+    h1#comuni {
+        font-size: 1em;
+    }
 }
 @media screen and (max-width: 500px) {
     section {
